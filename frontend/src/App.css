@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+nav{
+  border-radius: 10px;
+  box-shadow: #767676 5px 5px 5px 5px;
+  margin: 20px;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: #7A93AC;
+  color: white;
+}
